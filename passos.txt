@@ -1,0 +1,15 @@
+git config --global user.name GalloJunior
+git config --global user.email gallojunior@gmail.com
+
+Criar um projeto angular
+ng new galloflix
+
+cd galloflix
+
+ng serve -o
+
+Criar um componente
+ng g c pages/home
+
+Criar um servico
+ng g s services/movieApi

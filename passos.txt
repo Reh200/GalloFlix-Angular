@@ -2,6 +2,9 @@ Configuração do GIT:
 git config --global user.name Reh200
 git config --global user.email alinerenata1400@gmail.com
 
+git config --global user.name Aline6002
+git config --global user.email alinerenata6002@gmail.com
+
 Criar um projeto:
 ng new galloflix
 
